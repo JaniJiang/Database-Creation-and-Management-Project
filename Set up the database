@@ -1,0 +1,14 @@
+Set up the database:
+
+Ensure your database server is running.
+Connect to your database using a client or command line tool.
+Execute the SQL script:
+
+Run the provided SQL script to create the necessary table structures.
+
+sqlplus username/password@database < create.sql
+
+Usage Instructions
+Ensure the database server is running and the table structures are correctly created.
+Use the configuration files for data import and export operations.
+Run SQL queries and other database operations to verify data is correctly imported.
